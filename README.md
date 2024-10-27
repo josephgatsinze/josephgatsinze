@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @josephgatsinze
+- 👋 Hi, I’m josephgatsinze
 - 👀 I’m interested in ...github
 - 🌱 I’m currently learning ...network engineering 
 - 💞️ I’m looking to collaborate on ...learning tecskills
 - 📫 How to reach me ...josephgatsinze@gmail.com 
 - 😄 Pronouns: ...happy
-- ⚡ Fun fact: ...football 
+- ⚡ Fun fact: ..13885489football 
 
 <!---
 josephgatsinze/josephgatsinze is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
